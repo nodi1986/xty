@@ -1,0 +1,280 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1135px;
+    width: 100%;
+    margin: 0 auto;
+}
+.yert{
+    display: flex;
+    list-style: none;
+    gap: 32px;
+    padding-top: 14px;
+}
+.maga{
+    color: rgb(222, 46, 84);
+font-family: "Open Sans";
+font-size: 14px;
+font-weight: 700;
+line-height: 150%;
+letter-spacing: 2px;
+text-align: left;
+text-transform: uppercase;
+}
+.box{
+    color: rgb(34, 34, 34);
+font-family: "Open Sans";
+font-size: 14px;
+font-weight: 700;
+line-height: 150%;
+letter-spacing: 2px;
+text-align: left;
+text-transform: uppercase;
+}
+.navigation{
+    display: flex;
+padding-top: 24px;
+margin-bottom: 33px;
+gap: 114px;
+}
+.fff{
+
+}
+
+   
+.bt{
+    box-sizing: border-box;
+border: 2px solid rgb(222, 46, 84);
+border-radius: 8px;
+background: rgb(255, 255, 255);
+color: rgb(222, 46, 84);
+font-family: "Open Sans Condensed";
+font-size: 15px;
+font-weight: 700;
+line-height: 150%;
+letter-spacing: 2px;
+text-align: left;
+text-transform: uppercase;
+transition: 1s;
+padding: 12px 2px;
+
+}
+.bt:hover{
+    background-color: aqua;
+    color: blue;
+}
+.wrapper{
+    padding-top: 27px;
+    padding-bottom: 25pxpx;
+    width: 460px;
+   
+}
+.wrt{
+    width: 460px;
+    padding-top: 7px;
+    padding-bottom: 6px;
+}
+.color{
+
+  margin-top: 13px;
+    border-radius: 5px;
+width: 460px;
+border: none;
+padding-top: 6px ;
+padding-bottom: 7px;
+box-shadow: inset 0px -4px 0px 0px rgba(0, 0, 0, 0.09);
+background: rgb(56, 204, 139);
+transition: 1s;
+}
+.wr{
+    width: 460px;
+    padding-top: 7px;
+    padding-bottom: 6px;
+    box-sizing: border-box;
+border: 1px solid rgb(94, 84, 164);
+border-radius: 5px;
+
+background: rgb(255, 255, 255);
+}
+.sea{
+ margin-top: 253px;
+    background: rgb(14, 180, 193);
+}
+.h7{
+margin: 0 auto;
+}
+.h0{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 64px;
+font-weight: 600;
+line-height: 77px;
+letter-spacing: 0px;
+text-align: center;
+}
+.asssssss{
+padding-left: 40px;
+padding-right: 40px;
+border-radius: 10px;
+
+background: rgb(255, 255, 255);
+}
+.sub{
+    display: flex;
+    gap: 68px;
+    padding-bottom: 100px;
+    padding-top: 111px;
+}
+
+.ffffffffff{
+    background-color: rgb(34, 34, 34);
+}
+.komola{
+    color: rgb(222, 46, 84);
+font-family: "Open Sans";
+font-size: 14px;
+font-weight: 700;
+line-height: 150%;
+letter-spacing: 2px;
+text-align: left;
+text-transform: uppercase;
+}
+.zilola{
+    color: rgb(255, 255, 255);
+font-family: "Open Sans";
+font-size: 14px;
+font-weight: 700;
+line-height: 150%;
+letter-spacing: 2px;
+text-align: left;
+text-transform: uppercase;
+}
+.zxzx{
+    list-style: none;
+    display: flex;
+    gap: 32px;
+    padding-top: 14px;
+}
+.ccccc{
+    display: flex;
+    gap: 418px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+
+}
+
+.bg{
+    background-image: url("./images/image\ 4\ \(2\).png");
+   background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+padding-top: 137px;
+}
+.qwerty{
+   
+color: rgb(255, 255, 255);
+font-family: "Open Sans Condensed";
+font-size: 36px;
+font-weight: 700;
+line-height: 120%;
+width: 500px;
+}
+.btn{
+  
+    border-radius: 8px;
+background: rgba(222, 46, 84, 0.8);
+color: rgb(255, 255, 255);
+font-family: "Open Sans Condensed";
+font-size: 15px;
+font-weight: 700;
+line-height: 150%;
+letter-spacing: 2px;
+
+text-transform: uppercase;
+width: 190px;
+padding: 12px 2px;
+transition: 1s;
+border: none;
+margin-top: 60px;
+}
+
+.er{
+    padding-top: 48px;
+}
+.imdsr{
+    padding-left: 199px;
+}
+.btn:hover{
+    background-color: red;
+    color: yellow;
+}
+.h2{
+ 
+color: rgb(0, 0, 0);
+font-family: "Open Sans Condensed";
+font-size: 36px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 0px;
+width: 133px;
+
+margin-left: 600px;
+}
+.table{
+    display: flex;
+}
+.p9rt{
+ 
+ /* Body text */
+color: rgb(68, 68, 68);
+font-family: "Open Sans";
+font-size: 16px;
+font-weight: 400;
+line-height: 150%;
+width: 600px;
+}
+.viz{
+    display: flex;
+    gap: 64px;
+ 
+}
+.choy{
+    padding-top: 56px;
+}
+.dad{
+  
+color: rgb(68, 68, 68);
+font-family: "Open Sans";
+font-size: 16px;
+font-weight: 400;
+line-height: 150%;
+letter-spacing: 0px;
+text-align: left;
+width: 600px;
+padding-top: 24px;
+}
+.h4{
+    /* Smaller heading */
+color: rgb(34, 34, 34);
+font-family: "Open Sans Condensed";
+font-size: 24px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 0px;
+text-align: left;
+}
+.quy{
+    display: flex;
+    gap: 64px;
+    padding-top: 80px;
+}
+.gsp{
+ margin-left: 200px;
+}
+.color:hover{
+    background-color: fuchsia;
+    color: yellow;
+}
